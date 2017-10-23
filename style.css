@@ -62,6 +62,12 @@ h1 {
 .profile{
     font-size:2em;
 }
+#blur{
+    filter:blur(3px)
+}
+#blur:hover{
+    filter:none;
+}
 
 .fa {
     font-size: 1em;
